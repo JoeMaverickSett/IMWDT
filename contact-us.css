@@ -1,0 +1,76 @@
+#container1 {
+	margin-right: 50px;
+}
+
+#container2a {
+/*   color: black; */
+   padding-top: 0px;
+   text-align: center;
+/* 	font-family: 'Luckiest Guy', serif; /* 'Arvo', serif; */
+   font-size: 18px;
+   font-weight: 400;
+   font-shadow: 6px 6px 6px #ccc;
+   font-decoration: none;
+   font-transform: none;
+   letter-spacing: 0.056em;
+   word-spacing: 0.442em;
+   line-height: 1.44;
+   float: right;
+   margin-top: 30px;
+	border-width: 1px;
+   border-color: black;
+   border-style: solid;
+   border-radius: 30px;
+   -moz-border-radius: 30px;
+   -webkit-border-radius: 30px;
+	
+	box-shadow:inset 0px 0px 1px #edf9ff   
+   -moz-box-shadow:inset 0px 0px 1px #edf9ff;
+   -webkit-box-shadow:inset 0px 0px 1px #edf9ff;
+}
+
+#content1 {
+/*	font-family: 'Luckiest Guy', serif; /* 'Arvo', serif; */
+   font-size: 18px;
+   font-weight: 400;
+   font-shadow: 6px 6px 6px #ccc;
+   font-decoration: none;
+   font-transform: none;
+   letter-spacing: 0.056em;
+   word-spacing: 0.442em;
+   line-height: 1.44;
+}
+
+ul {
+	list-style: none;
+	}
+
+#contacts {
+	text-align: left;
+	font-family: monospace;
+	clear: both;
+	}
+	
+.contact1 {
+	float: left;
+	clear: left;
+}
+
+.contact2 {
+	float: right;
+	clear: right;
+	margin-right: 45px;
+}
+
+.contact3 {
+	text-align: center;
+}
+
+#footer {
+	float: right;
+   display: block;
+   font-size: 90%;
+   font-style: italic;
+   font-variant: small-caps;
+   padding-top: 10px;
+}
